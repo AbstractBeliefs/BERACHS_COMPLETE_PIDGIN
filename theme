@@ -1,9 +1,10 @@
-Name=Berachs Emote Pack 1.1
+Name=Berachs Emote Pack 1.1.1
 Description=Most Emoticons, Maintained by Berach Damhain
 Icon=orangered.png
 Author=Maintained by Berach Damhain and hosted by B0RT
 
 [default]
+! buttswoon.gif    :buttswoon:
 ! toxic.gif    :toxic:
 ! maxdoobie.gif    :maxdoobie: :md:
 ! sunglasses.gif    :sunglasses:
