@@ -1,13 +1,15 @@
-Name=Berachs Emote Pack 1.2.3
+Name=Berachs Emote Pack 1.2.4
 Description=Most Emoticons, Maintained by Berach Damhain
 Icon=orangered.png
 Author=Maintained by Berach Damhain and hosted by B0RT
 
 [default]
+! buttsiren.gif    :buttsiren:
+! negaman.png    :negaman:
 ! frogbooda.gif    :frogbooda:
 ! wrikhoover.png    :wrikhoover:
 ! cleanhands.png    :cleanhands: :handsareclean:
-! sort.png    :sort:
+! sort.gif    :sort:
 ! n1m8.png    :n1m8:
 ! gijoe.png    :gijoe:
 ! bdd.gif    :bdd:
@@ -926,33 +928,33 @@ gf-condi.gif :condi:
 ! emot-qqsay.gif			:qqsay:
 ! emot-razz.gif			:razz:
 ! emot-regd10.png			:regd10:
-! emot-reject.gif			:reject:
+! emot-reject.gif		:reject:
 ! emot-roboluv.gif		:roboluv:	
-! emot-sbahj.gif			:sbahj:
-! emot-shibaz.png			:shibaz:
-! emot-sicknasty.gif		:sicknasty:
+! emot-sbahj.gif		:sbahj:
+! emot-shibaz.png		:shibaz:
+! emot-sicknasty.gif	:sicknasty:
 ! emot-smugbird.gif		:smugbird:
-! emot-smuggo.gif			:smuggo:
-! emot-smugissar.gif		:smugissar:
+! emot-smuggo.gif		:smuggo:
+! emot-smugissar.gif	:smugissar:
 ! emot-smugndar.gif		:smugndar:
-! emot-smugteddie.gif		:smugteddie:
-! emot-solanadumb.png		:solanadumb:
-! emot-sotw2.gif			:sotw2:
-! emot-spain.gif			:spain:
-! emot-tf.gif				:tf:
+! emot-smugteddie.gif	:smugteddie:
+! emot-solanadumb.png	:solanadumb:
+! emot-sotw2.gif		:sotw2:
+! emot-spain.gif		:spain:
+! emot-tf.gif			:tf:
 ! emot-thumbsup.gif		:thumbsup:	
 ! emot-thurman.gif		:thurman:	
 ! emot-tito.gif			:tito:
-! emot-turianass.gif		:turianass:
+! emot-turianass.gi		:turianass:
 ! emot-tviv.gif			:tviv:
 ! emot-twisted.gif		:twisted:	
-! emot-vd.gif				:vd:	
+! emot-vd.gif			:vd:	
 ! emot-viconia.gif		:viconia:
-! emot-viggo.gif			:viggo:
+! emot-viggo.gif		:viggo:
 ! emot-wcc.gif			:wcc:	
 ! emot-xie2.gif			:xie2:
 ! emot-yousuck.gif		:yousuck:	
-! eyepop.001.gif			:eyepop:
+! eyepop.001.gif		:eyepop:
 ! feelsgood.001.png		:feelsgood:	
 ! fella.001.gif			:fella:
 ! forkbomb.001.gif		:forkbomb:	
@@ -1028,7 +1030,7 @@ gf-condi.gif :condi:
 ! frogstare.gif			:frogstare:
 ! frogstonk.gif			:frogstonk:
 ! fun.jpg				:fun:
-! mb3.png				:mb3:
+! mb3.gif				:mb3:
 ! mittanisar.gif		:mittanisar:
 ! montolio.png			:montolio:
 ! nofun.jpg				:nofun:
