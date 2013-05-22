@@ -1,9 +1,10 @@
-Name=Berachs Emote Pack 1.2.7
+Name=Berachs Emote Pack 1.2.8
 Description=Most Emoticons, Maintained by Berach Damhain
 Icon=orangered.png
 Author=Maintained by Berach Damhain and hosted by B0RT
 
 [default]
+! euphoric.gif    :euphoric:
 ! dc2.png    :dc2:
 ! smithbrit.gif    :smithbrit:
 ! europe.gif    :europe:
