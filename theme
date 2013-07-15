@@ -1,9 +1,10 @@
-Name=Berachs Emote Pack 1.3.9
+Name=Berachs Emote Pack 1.3.10
 Description=Most Emoticons, Maintained by Berach Damhain
 Icon=orangered.png
 Author=Maintained by Berach Damhain and hosted by B0RT
 
 [default]
+! xystance2.png    :xystance2:
 ! spai.png    :spai:
 ! buttler.png    :buttler:
 ! z9pp.gif    :z9pp:
