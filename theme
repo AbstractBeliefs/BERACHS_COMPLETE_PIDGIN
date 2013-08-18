@@ -1,9 +1,10 @@
-Name=Berachs Emote Pack 1.4.3
+Name=Berachs Emote Pack 1.4.4
 Description=Most Emoticons, Maintained by Berach Damhain
 Icon=orangered.png
 Author=Maintained by Berach Damhain and hosted by B0RT
 
 [default]
+! dinowink.gif    :dinowink:
 ! hug.gif    :hug:
 ! jaff.png    :jaff:
 ! leshibe.jpg    :leshibe:
