@@ -1,9 +1,10 @@
-Name=Berachs Emote Pack 1.4.9
+Name=Berachs Emote Pack 1.4.10
 Description=Most Emoticons, Maintained by Berach Damhain
 Icon=orangered.png
 Author=Maintained by Berach Damhain
 
 [default]
+! uwot.png    :uwot:
 ! squiggly.png    :squiggly:
 ! buttsmith.png    :buttsmith:
 ! dogc00l.gif    :dogc00l:
