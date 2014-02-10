@@ -1,9 +1,11 @@
-Name=Berachs Emote Pack 1.4.17
+Name=Berachs Emote Pack 1.4.18
 Description=Most Emoticons, Maintained by Berach Damhain
 Icon=orangered.png
 Author=Maintained by Berach Damhain
 
 [default]
+! 2can.gif    :2can:
+! toucan.gif    :toucan:
 ! br5rb.gif    :br5rb:
 ! leekspin.gif    :leeks: :leaks:
 ! ntwice.png    :ntwice: :edgy:
