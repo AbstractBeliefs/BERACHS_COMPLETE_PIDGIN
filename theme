@@ -4,6 +4,8 @@ Icon=orangered.png
 Author=Maintained by Berach Damhain
 
 [default]
+! notok.png    :notok:
+! whore.gif    :whore: :kbwhore:
 ! tf2awesome.gif    :tf2awesome:
 ! opsuccess.jpg    :opsuccess:
 ! kfc.jpg    :mistakesweremade: :chikunwelp: :chikunfleet:
@@ -687,7 +689,7 @@ Author=Maintained by Berach Damhain
 ! gf-cloricus.gif :cloricus: :lollicus: :clor:
 ! gf-rollbert.gif :rollbert: :rbert: :rollb:
 ! gf-companioncube.gif :cube: :ccube:
-! happysun.png :happysun: [img-happysun] :hsun:
+! happysun.gif :happysun: :img-happysun: :hsun:
 ! gf-madprops.gif :madprops: :mp: :madprop: 
 ! gf-psycripes.gif :criduck: :psyduckcripes: :cripesduck: :cripeduck: :cduck:
 ! gf-colbon.gif :shobert: :shobonert: :colbon: :colboshon: :colshobertbon:
@@ -801,7 +803,7 @@ gf-condi.gif :condi:
 ! emot-banme.gif	:banme:
 ! emot-cmon.gif	:cmon:
 ! emot-crow.gif	:crow:
-! emot-dealwithit.jpg.gif	:dealwithit:
+! emot-dealwithit.jpg :dealwithit:
 ! emot-dukedog.png	:dukedog:
 ! emot-frogout.gif	:frogout:
 ! emot-getout.png	:getout:
@@ -880,7 +882,7 @@ gf-condi.gif :condi:
 ! mmd.png	:mmd:
 ! clevergirl.png	:clevergirl:
 ! confused.png	:confusedreddit:
-! confutoot2.png	:confutoot:
+! confutoot.png	:confutoot:
 ! creepygusta.png :creepygusta:
 ! dazed.png	:dazed:
 ! dogsweetjesus.png	:dogsweetjesus:
