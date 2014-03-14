@@ -1,9 +1,32 @@
-Name=Berachs Emote Pack 1.4.18
+Name=Berachs Emote Pack 1.4.19 (SA+REDDIT+OI+EVE)
 Description=Most Emoticons, Maintained by Berach Damhain
 Icon=orangered.png
-Author=Maintained by Berach Damhain
+Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai. Conversion/tech: Kline Eto, Space Chikun
 
 [default]
+! notok.png    :notok:
+! whore.gif    :whore: :kbwhore:
+! tf2awesome.gif    :tf2awesome:
+! opsuccess.jpg    :opsuccess:
+! kfc.jpg    :mistakesweremade: :chikunwelp: :chikunfleet:
+! emot-24.gif    :24:
+! Unchained_Potential.png    :ucp:
+! The_Foreign_Legion.png    :stole:
+! The_Suicide_Kings.png    :tsk:
+! Rim_Collection_RC.png    :rimc:
+! Rayn_Enterprises.png    :sre:
+! PonyWaffe.png    :pwwn:
+! Petrichor_Heavy_Industries.png    :phi:
+! Martyrs_Vengence.png    :mv:
+! Immortal_Shadow_Seekers.png    :ishdw:
+! Ghosts_of_Ragnarok.png    :xgorx:
+! Elite_Aeronautic_Developer_Syndicate.png  :eads:
+! Dromedaworks_inc.png    :drowi:
+! Distinguished_Gentleman's_Boating_Club.png    :dgbc:
+! Ars_ex_Discordia.png    :arsed:
+! Alea_Iacta_Est_Universal.png  :aieu:
+! Alcohol_Tobacco_and_Firearms.png   :atf:
+! Ad_Vita_Noctu.png    :avint:
 ! aww.gif    :aww:
 ! 2can.gif    :2can:
 ! toucan.gif    :toucan:
@@ -666,7 +689,7 @@ Author=Maintained by Berach Damhain
 ! gf-cloricus.gif :cloricus: :lollicus: :clor:
 ! gf-rollbert.gif :rollbert: :rbert: :rollb:
 ! gf-companioncube.gif :cube: :ccube:
-! happysun.png :happysun: [img-happysun] :hsun:
+! happysun.gif :happysun: :img-happysun: :hsun:
 ! gf-madprops.gif :madprops: :mp: :madprop: 
 ! gf-psycripes.gif :criduck: :psyduckcripes: :cripesduck: :cripeduck: :cduck:
 ! gf-colbon.gif :shobert: :shobonert: :colbon: :colboshon: :colshobertbon:
@@ -780,7 +803,7 @@ gf-condi.gif :condi:
 ! emot-banme.gif	:banme:
 ! emot-cmon.gif	:cmon:
 ! emot-crow.gif	:crow:
-! emot-dealwithit.jpg.gif	:dealwithit:
+! emot-dealwithit.jpg :dealwithit:
 ! emot-dukedog.png	:dukedog:
 ! emot-frogout.gif	:frogout:
 ! emot-getout.png	:getout:
@@ -859,7 +882,7 @@ gf-condi.gif :condi:
 ! mmd.png	:mmd:
 ! clevergirl.png	:clevergirl:
 ! confused.png	:confusedreddit:
-! confutoot2.png	:confutoot:
+! confutoot.png	:confutoot:
 ! creepygusta.png :creepygusta:
 ! dazed.png	:dazed:
 ! dogsweetjesus.png	:dogsweetjesus:
