@@ -1,10 +1,15 @@
-Name=Berachs Emote Pack 1.4.19 (SA+REDDIT+OI+EVE)
+Name=Berachs Emote Pack 1.6.4 (SA+REDDIT+OI+EVE)
 Description=Most Emoticons, Maintained by Berach Damhain
 Icon=orangered.png
 Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai. Conversion/tech: Kline Eto, Space Chikun
 
 [default]
 ! brave.gif		:brave:
+! supersmith.png    :supersmith:
+! rmt2.png    :rmt2: :malibu:
+! rmt.png    :rmt:
+! cactus.gif :cactus:
+! cactilio.gif	:cactilio:
 ! notok.png    :notok:
 ! whore.gif    :whore: :kbwhore:
 ! tf2awesome.gif    :tf2awesome: :awesomespai:
@@ -690,7 +695,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai. Conversion/tech: Kli
 ! gf-cloricus.gif :cloricus: :lollicus: :clor:
 ! gf-rollbert.gif :rollbert: :rbert: :rollb:
 ! gf-companioncube.gif :cube: :ccube:
-! happysun.gif :happysun: :img-happysun: :hsun:
+! happysun.png :happysun: :hsun:
 ! gf-madprops.gif :madprops: :mp: :madprop: 
 ! gf-psycripes.gif :criduck: :psyduckcripes: :cripesduck: :cripeduck: :cduck:
 ! gf-colbon.gif :shobert: :shobonert: :colbon: :colboshon: :colshobertbon:
@@ -1135,3 +1140,4 @@ gf-condi.gif :condi:
 ! rip.gif				:rip:
 ! frogh8.gif			:frogh8:
 ! diplomacy.gif			:diplomacy:
+! stop.gif              :stop:
