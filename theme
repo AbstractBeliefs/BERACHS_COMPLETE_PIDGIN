@@ -1,9 +1,10 @@
 Name=Berachs Emote Pack 1.6.4 (SA+REDDIT+OI+EVE)
 Description=Most Emoticons, Maintained by Berach Damhain
 Icon=orangered.png
-Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai. Conversion/tech: Kline Eto, Space Chikun
+Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai. Conversion/tech: Kline Eto, Space Chikun, Jack Snipe
 
 [default]
+! dutchsmug.gif	:dutchsmug:
 ! brave.gif		:brave:
 ! supersmith.png    :supersmith:
 ! rmt2.png    :rmt2: :malibu:
